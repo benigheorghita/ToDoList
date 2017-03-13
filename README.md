@@ -9,6 +9,6 @@ After that, you can load the db.sql file which will create the DB and the needed
 the authentication data on application/config/database.php. If you'll be using another path than localhost please also update $config['base_url']
 from application/config/config.php.
 
-Right now you should be able to run my app. Feel free to add any improvments and help me with anything you want.
+Right now you should be able to run my app. Feel free to add any improvments. The customized files can be found on codeigniter/application/controllers, libraries, models and views.
 
 Cheers!
